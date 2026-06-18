@@ -1,0 +1,6 @@
+@API.Service.MicroKernel_HostAddress = http://localhost:5185
+
+GET {{API.Service.MicroKernel_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
